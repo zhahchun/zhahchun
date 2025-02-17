@@ -25,7 +25,7 @@ A deep dive into machine learning techniques using **matrix-based methods**, exp
 - **Neural Networks** for predictive modeling
 - **Optimization techniques** to enhance machine learning workflows
 
-### 🔍 [Optimization Practices](https://github.com/zhahchun/Optimization-Practices)
+### 🔍 [Optimization](https://github.com/zhahchun/Optimization)
 A collection of projects applying **mathematical optimization techniques** in real-world scenarios:
 - **Airport Expansion Planning** using MIP
 - **Plane Sorting Algorithms** for efficient scheduling
