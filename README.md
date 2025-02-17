@@ -15,7 +15,7 @@ I'm a **Data Scientist** with expertise in **machine learning, statistical analy
 - **Optimization:** Proximal Gradient Descent, SVD, PCA, LASSO, Kernel Methods
 - **Data Engineering:** ETL, Feature Engineering, Data Pipelines
 - **Visualization:** Matplotlib, Seaborn, Power BI, Tableau
-- **Cloud & Tools:** Azure, Git, Jupyter Notebooks
+- **Cloud & Tools:** Azure, AWS, Git, Jupyter Notebooks
 
 ## 📂 Featured Projects
 ### 🏆 [Matrix Methods in Machine Learning](https://github.com/zhahchun/Matrix-Method-in-Machine-Learning)
