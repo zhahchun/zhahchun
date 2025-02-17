@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Yi-Chun!
 
 ## 🚀 About Me
-I'm a **Data Professional** with expertise in **machine learning, statistical analysis, and data engineering**. My passion lies in leveraging data-driven insights to solve complex problems and drive innovation. I have hands-on experience in **business analysis, data visualization, and stakeholder communication**, and I enjoy exploring new ways to enhance model performance and efficiency.
+I'm a **Data Professional** with expertise in **machine learning, statistical analytics, and predictive modeling**. My passion lies in leveraging data-driven insights to solve complex problems and drive innovation. I have hands-on experience in **business analysis, data visualization, and stakeholder communication**, and I enjoy exploring new ways to enhance model performance and efficiency.
 
 ### 📚 Background
 - 🎓 **Master of Science in Information (Data Analytics)** – University of Wisconsin-Madison
-- 💡 Strong background in **data science, ETL, and artificial intelligence**
+- 💡 Strong background in **data science, ERL, and artificial intelligence**
 - 🔍 Passionate about **machine learning research, model interpretability, and insight generation**
 
 ## 🛠️ Technical Skills
 - **Programming:** Python, SQL, Julia, Java, JavaScript
 - **Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering
 - **Deep Learning:** Neural Networks, Computer Vision, NLP
-- **Optimization:** Proximal Gradient Descent, SVD, PCA, LASSO, Kernel Methods
+- **Optimization:** Proximal Gradient Descent, SVD, PCA, LASSO
 - **Data Engineering:** ETL, Feature Engineering, Data Pipelines
 - **Visualization:** Matplotlib, Seaborn, Power BI, Tableau
 - **Cloud & Tools:** Azure, AWS, Git, Jupyter Notebooks
