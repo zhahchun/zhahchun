@@ -5,8 +5,8 @@ I'm a **Data Professional** with expertise in **machine learning, statistical an
 
 ### 📚 Background
 - 🎓 **Master of Science in Information (Data Analytics)** – University of Wisconsin-Madison
-- 💡 Strong background in **data science, ETL, and artificial intelligence**
-- 🔍 Passionate about **machine learning research, model interpretability, and insight generation**
+- 💡 Strong background in **data science, ETL, and business intelligence**
+- 🔍 Passionate about **artificial intelligence research, model interpretability, and insight generation**
 
 ## 🛠️ Technical Skills
 - **Programming:** Python, SQL, Julia, Java, JavaScript
