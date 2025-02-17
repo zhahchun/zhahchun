@@ -9,7 +9,7 @@ I'm a **Data Professional** with expertise in **machine learning, statistical an
 - 🔍 Passionate about **artificial intelligence research, model interpretability, and insight generation**
 
 ## 🛠️ Technical Skills
-- **Programming:** Python, SQL, Julia, Java, JavaScript
+- **Programming:** Python, SQL, Julia, Java, JavaScript, ABAP
 - **Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering
 - **Deep Learning:** Neural Networks, Computer Vision, NLP
 - **Optimization:** Proximal Gradient Descent, SVD, PCA, LASSO
